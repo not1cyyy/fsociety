@@ -92,7 +92,7 @@ then
     echo "[✔] Tool installed successfully! [✔]";
     echo "";
     echo "[✔]====================================================================[✔]";
-    echo "[✔]      All is done!! You can execute tool by typing fsociety !       [✔]";
+    echo "[✔]      All done!! You can execute the tool by typing fsociety !       [✔]";
     echo "[✔]====================================================================[✔]";
     echo "";
 else
